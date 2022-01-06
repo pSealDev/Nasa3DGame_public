@@ -1,4 +1,6 @@
-Nasa 3D Museum
+Nasa 3D Museum 
+
+*ONLY PORTION OF CODE UPLOADED FOR NOW* still cleaning it up before making it public. 
 
 Made with Three.js (JavaScript library to animate WebGL), as a capstone project for university.
 
